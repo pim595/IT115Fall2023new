@@ -1,11 +1,12 @@
 {
     "name": "Quynh Nguyen",
-    "age": 24,
+    "age": 34,
     "city": "Shoreline,WA",
     "interests": [
         "hiking",
         "cooking",
-        "videogames"
+        "videogames",
+        "Cats"
     ],
     "is_student": true
 }
